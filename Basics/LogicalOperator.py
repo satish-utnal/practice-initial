@@ -1,3 +1,5 @@
+#Demo to show logical operator
+
 if 5>4 and 7>5:
     print("True for and operator ")
 else:
